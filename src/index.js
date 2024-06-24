@@ -3,6 +3,12 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+export { default as Loader } from './components/Footer';
+export { default as Transactions } from './components/Transactions';
+export { default as Services } from './components/Services';
+export { default as Navbar } from './components/Navbar';
+export { default as Footer } from './components/Footer';
+export { default as Welcome } from './components/Welcome';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
