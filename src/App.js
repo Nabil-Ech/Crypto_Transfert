@@ -8,6 +8,8 @@ import Footer from './components/Footer';
 import  Services  from './components/Services';
 import  Navbar  from './components/Navbar';
 import  Welcome  from './components/Welcome';
+import './index.css';
+
 
 
 function App() {
